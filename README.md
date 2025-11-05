@@ -251,7 +251,6 @@ See [SECURITY.md](SECURITY.md) for more information.
 ## **Resources**
 
 - [Tuba.ai Platform](https://tuba.ai/)
-- [Join Discord Community] (https://discord.com/invite/gDSZr6N5rC)
 - [Model Context Protocol (MCP) Specification](https://modelcontextprotocol.io/)
 - [FastMCP Documentation](https://github.com/jlowin/fastmcp)
 
@@ -260,6 +259,7 @@ See [SECURITY.md](SECURITY.md) for more information.
 For questions, issues, or feedback:
 
 - **Tuba.ai Support:** support@tuba.ai
+- **Join Discord Community** https://discord.com/invite/gDSZr6N5rC
 - **GitHub Issues:** Use for bug reports and feature requests
 - **Discussions:** Use GitHub Discussions for questions and community interaction
 
