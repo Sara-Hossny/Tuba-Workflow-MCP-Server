@@ -1,4 +1,4 @@
 fastmcp==2.13.0
-requests==2.32.3
+requests==2.32.4
 dotenv==0.9.9
 pydantic==2.11.4
