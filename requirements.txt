@@ -1,4 +1,4 @@
-fastmcp==2.3.1
-requests==2.32.3
+fastmcp==2.14.1
+requests==2.32.5
 dotenv==0.9.9
-paddleocr==2.7.0
+pydantic==2.12.5
